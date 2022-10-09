@@ -7,7 +7,7 @@ It's the first project of **Team UGD**. We've been interested in the development
 If you're interested in individual portfolios, click the below links.
 
 * [DevSlem](Portfolios/portfolio-DevSlem.md)
-
+* [KoHyeonseo](Portfolios/portfolio-KoHyeonSeo.md)
 ## Game
 
 ### Game trailer - Youtube
